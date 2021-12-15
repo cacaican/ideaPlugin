@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.xiaocai.plugin.gui.Myform">
+  <grid id="27dc6" binding="sdfg" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="801" height="400"/>
+    </constraints>
+    <properties>
+      <alignmentX value="0.5"/>
+      <background color="-12821272"/>
+      <debugGraphicsOptions value="1"/>
+      <doubleBuffered value="false"/>
+    </properties>
+    <border type="bevel-raised" title="这是pannel的标题" title-position="1">
+      <font swing-font="Menu.acceleratorFont"/>
+      <title-color color="-505484"/>
+    </border>
+    <children>
+      <component id="e57d0" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <hspacer id="cd727">
+        <constraints/>
+      </hspacer>
+      <component id="6626f" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="bf6f3" class="javax.swing.JCheckBox" binding="checkBox1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="CheckBox"/>
+        </properties>
+      </component>
+      <component id="c2eab" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="5c698" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="1b85f" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="25c55" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+      <component id="61028" class="javax.swing.JCheckBox" binding="checkBox2" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="CheckBox"/>
+        </properties>
+      </component>
+      <component id="f963a" class="javax.swing.JEditorPane" binding="editorPane1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
