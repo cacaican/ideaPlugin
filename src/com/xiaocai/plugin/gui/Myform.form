@@ -58,7 +58,7 @@
         <constraints/>
         <properties/>
       </component>
-      <component id="61028" class="javax.swing.JCheckBox" binding="checkBox2" default-binding="true">
+      <component id="61028" class="javax.swing.JCheckBox" binding="checkBox2" custom-create="true" default-binding="true">
         <constraints/>
         <properties>
           <text value="CheckBox"/>
